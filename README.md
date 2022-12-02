@@ -1,5 +1,5 @@
 ## Cycles Game
-[CYCLE GAME SAMPLE](week5.png)
+[CYCLE GAME SAMPLE](pic.png)
 
 >Cycles is a game in which players try to cut each other off using cycles that leave a trail behind them. This game is played on a simulated terminal with a text-based interface.
 
